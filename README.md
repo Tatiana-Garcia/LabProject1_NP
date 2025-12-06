@@ -9,5 +9,5 @@
 Pueden ver el video en los archivos del repo.
 
 
-How to change the name of a project in Netbeans:
+#### How to change the name of a project in Netbeans:
 ![nameProject](ChangeName.gif)
